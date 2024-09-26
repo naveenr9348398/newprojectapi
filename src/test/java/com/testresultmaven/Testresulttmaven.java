@@ -21,6 +21,8 @@ public class Testresulttmaven extends Base_Classs {
 		executeJavaScriptt("arguments[0].scrollIntoView();", pom.getfot().getAllresources());
 		clickonelementt(pom.getfot().getAllresources());
 		closebrowser();
+		System.out.println("output1");
+		System.out.println("output2");
 		
 		
 		
