@@ -23,6 +23,8 @@ public class Testresulttmaven extends Base_Classs {
 		closebrowser();
 		System.out.println("output1");
 		System.out.println("output2");
+		System.out.println("output3");
+		System.out.println("output4");
 		
 		
 		
