@@ -31,6 +31,10 @@ public class Testresulttmaven extends Base_Classs {
 		System.out.println("testing3");
 		System.out.println("testing4");
 		System.out.println("testing5");
+		System.out.println("testing6");
+		System.out.println("testing7");
+		System.out.println("testing8");
+		System.out.println("testing9");
 		
 		
 		
