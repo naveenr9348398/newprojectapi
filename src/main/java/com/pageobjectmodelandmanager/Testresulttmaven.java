@@ -1,4 +1,4 @@
-package com.testresultmaven;
+package com.pageobjectmodelandmanager;
 
 import com.Baseclass.Base_Classs;
 import com.pageobjectmodelandmanager.Pageobjecttmanagerr;
@@ -25,6 +25,13 @@ public class Testresulttmaven extends Base_Classs {
 		System.out.println("output2");
 		System.out.println("output3");
 		System.out.println("output4");
+		
+		System.out.println("testing1");
+		System.out.println("testing2");
+		System.out.println("testing3");
+		System.out.println("testing4");
+		System.out.println("testing5");
+		
 		
 		
 		
